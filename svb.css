@@ -1,0 +1,99 @@
+header h1{
+  position:relative;
+  left:100px;
+  color:#ffffff;
+}
+header img{
+  position:relative;
+  top:-70px;
+  
+}
+nav{
+  text-align:center;
+  position:relative;
+  left:500px;
+  bottom:130px;
+}
+nav a{
+  text-decoration:none;
+  background-color:rgba(255,255,255,0.7);
+  margin:20px;
+  padding-left:50px;
+  padding-right:50px;
+  color:#000000;
+  border-radius:5px;
+}
+nav a:hover{
+  background-color:#ffffff;
+}
+html{
+  background-image:url('https://webeveryone.github.io/sample/5.jpg');
+  background-repeat:no-repeat;
+  background-size:150% 100%;
+  margin:5px;
+  border-radius:25px;
+  opacity:0.8px;
+}
+footer img{
+  
+  width:20px;
+}
+body h2#right{
+ text-align:center;
+  position:relative;
+  left:350px;
+  color:#ffffff;
+}
+body h2{
+  font-weigth:1500;
+}
+body h2#left{
+  position:relative;
+  left:100px;
+  color:#ffffff;
+  
+}
+footer p{
+  display:inline-block;
+  color:#ffffff;
+  margin:20px;
+  
+}
+footer a{
+  position:relative;
+  bottom:115px;
+  right:-150px;
+  font-size:125%;
+  
+  
+}
+footer p#svb3{
+  position:relative;
+  bottom:145px;
+  right:-250px;
+  font-size:125%;
+}
+footer{
+  text-align:center;
+  font-weigth:1000;
+  
+}
+footer p#svb{
+  position:relative;
+  left:-550px;
+  font-size:125%;
+  color:#ffffff;
+  text-align:left;
+  
+}
+footer p#svb1{
+  position:relative;
+  left:300px;
+  bottom:85px;
+  color:#ffffff;
+  font-size:125%;
+}
+div a{
+  position:relative;
+  left:650px;
+}
